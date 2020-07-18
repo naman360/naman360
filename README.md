@@ -6,7 +6,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=naman360.naman360)  
 
 ## Hi there 👋,           
-##### I'm Naman Shankhydhar, pursuing B.Tech specialised in Information Technology. I love to build websites and useful web apps. I adore Javascript and loves Data Structures and Algorithms.
+##### I'm Naman Shankhydhar, pursuing B.Tech specialised in Information Technology. I love to build websites and useful web apps. I adore Javascript and loves playing with Data Structures and Algorithms.
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
 
 ## 🧐 About

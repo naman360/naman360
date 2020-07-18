@@ -18,6 +18,8 @@
 - 🎨 Fun fact: In my free time, you'll find me listening to music or dancing.
 - 📫 How to reach me: mail me at [naman.geek@gmail.com](mailto:namna.geek@gmail.com)
 
+![Naman's github stats](https://github-readme-stats.vercel.app/api?username=naman360&show_icons=true)
+
 
 
 

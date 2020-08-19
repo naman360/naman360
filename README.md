@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/naman360-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/naman360/)
 [![Medium Badge](https://img.shields.io/badge/naman360-30302f?style=flat&logo=medium)](https://medium.com/@naman360)
 [![Gmail Badge](https://img.shields.io/badge/naman.geek@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:naman.geek@gmail.com)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=naman360.naman360)  
+<img src="https://komarev.com/ghpvc/?username=namn360" alt="Naman Shankhydhar">
 
 ## Hi there 👋,           
 ##### I'm Naman Shankhydhar, pursuing B.Tech specialised in Information Technology. I love to build websites and useful web apps. I adore Javascript and loves playing with Data Structures and Algorithms.

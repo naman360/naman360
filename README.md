@@ -31,8 +31,8 @@ I write code and break things 👨‍💻
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently working on learning backend stuff.
-- 👨🏻‍💻 &nbsp; I am currently building [Beautiful Toast](https://github.com/naman360/beautiful-toast).
-- 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/naman360/)! I am happy to help.
+- 👨🏻‍💻 &nbsp; I am currently building [CanWhiz](https://github.com/naman360/canwhiz).
+- 💬 &nbsp; Ask me about anything [here](https://www.twitter.com/geekyjunk)! I am happy to help.
 - 📫 &nbsp; How to reach me: naman.dev@outlook.com.
 
 ### Languages and Tools:
